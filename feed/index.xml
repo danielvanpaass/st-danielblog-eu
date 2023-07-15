@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Collection of blog posts of experiences from Daniel van Paassen</description>
-	<lastBuildDate>Sat, 15 Jul 2023 11:55:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Jul 2023 14:32:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,16 +29,16 @@
 </image> 
 	<item>
 		<title>First Post!</title>
-		<link>/2023/07/14/first-post/</link>
+		<link>/2023/07/14/first-post/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=first-post</link>
 		
 		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
 		<pubDate>Fri, 14 Jul 2023 11:38:19 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">/?p=169</guid>
 
-					<description><![CDATA[In just one week, my adventure begins as I embark on a Study Trip organized by my study association. I feel incredibly lucky to be one of the 31 students chosen for this trip across Asia. Our journey will span three weeks, taking us to Kuala Lumpur, Singapore, and Bandung. During our trip, we&#8217;ll have&#8230;&#160;<a href="/2023/07/14/first-post/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">First Post!</span></a>]]></description>
-										<content:encoded><![CDATA[
-<p>In just one week, my adventure begins as I embark on a Study Trip organized by my study association. I feel incredibly lucky to be one of the 31 students chosen for this trip across Asia. Our journey will span three weeks, taking us to Kuala Lumpur, Singapore, and Bandung.</p>
+					<description><![CDATA[<p>In just one week, my adventure begins as I embark on a Study Trip organized by my study association. I feel incredibly lucky to be one of the 31 students chosen for this trip across Asia. Our journey will span three weeks, taking us to Kuala Lumpur, Singapore, and Bandung. During our trip, we&#8217;ll have&#8230;&#160;<a href="/2023/07/14/first-post/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">First Post!</span></a></p>
+<p>The post <a href="/2023/07/14/first-post/">First Post!</a> first appeared on <a href="/">danielblog</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>In just one week, my adventure begins as I embark on a Study Trip organized by my study association. I feel incredibly lucky to be one of the 31 students chosen for this trip across Asia. Our journey will span three weeks, taking us to Kuala Lumpur, Singapore, and Bandung.</p>
 
 
 
@@ -50,8 +50,7 @@
 
 
 
-<p>As we embark on this journey together, let&#8217;s make it a trip to remember for all the right reasons. From breathtaking sights to enriching cultural encounters, we&#8217;ll seize every moment and create lifelong memories. The countdown has begun, and I can&#8217;t wait to embark on this incredible adventure in just one week&#8217;s time!</p>
-]]></content:encoded>
+<p>As we embark on this journey together, let&#8217;s make it a trip to remember for all the right reasons. From breathtaking sights to enriching cultural encounters, we&#8217;ll seize every moment and create lifelong memories. The countdown has begun, and I can&#8217;t wait to embark on this incredible adventure in just one week&#8217;s time!</p><p>The post <a href="/2023/07/14/first-post/">First Post!</a> first appeared on <a href="/">danielblog</a>.</p>]]></content:encoded>
 					
 		
 		

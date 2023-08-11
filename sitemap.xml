@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on July 16, 2023 at 3:27 pm by All in One SEO v4.4.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on August 11, 2023 at 8:08 am by All in One SEO v4.4.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc><![CDATA[/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2023-07-15T14:32:19+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-11T08:03:41+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/page-sitemap.xml]]></loc>
@@ -13,6 +13,6 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2023-07-15T14:32:19+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-08-11T08:03:41+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>

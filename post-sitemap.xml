@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on August 11, 2023 at 8:08 am by All in One SEO v4.4.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on August 11, 2023 at 10:03 am by All in One SEO v4.4.3 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=post"?>
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
@@ -19,10 +19,10 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2023/08/Climbing-the-Batu-Cave-rotated.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2023/08/Inside-the-Batu-Cave-rotated.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2023/08/Inside-the-Batu-Cave-rotated.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2023/08/Climbing-the-Batu-Cave-rotated.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[/wp-content/uploads/2023/08/On-the-steps-of-the-Batu-Cave.jpg]]></image:loc>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on September 23, 2023 at 12:13 pm by All in One SEO v4.4.6 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 26, 2023 at 3:57 pm by All in One SEO v4.4.6 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -14,10 +14,103 @@
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
+		<loc><![CDATA[/2023/11/26/indonesia-jakarta/]]></loc>
+		<lastmod><![CDATA[2023-11-26T15:56:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
 		<loc><![CDATA[/2023/09/23/indonesia-bandung/]]></loc>
 		<lastmod><![CDATA[2023-09-23T12:12:32+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Beautiful-view-of-the-Citarum-River.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/At-a-beer-house.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/The-beautiful-campus-of-ITB.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Another-shot-of-ITB.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/With-the-students-that-came-to-show-us-the-campus-while-on-holiday.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Always-with-proper-hiking-attire-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/At-the-Konferensi-Asia–Afrika-as-part-of-our-tour.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Max-trying-to-learn-bahasa-Indonesia-in-2-seconds.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/A-good-5v5-match-of-football-I-did-not-lose.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Our-great-teams-shout-out-to-mine-for-making-Max-not-win.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Having-food-with-our-tour-guide.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Our-coordination-is-not-the-best.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/When-Im-thirsty-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Cant-believe-I-made-the-jump.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Starting-the-hike-on-Gunung-Gede.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/A-waterfall-on-Gunung-Gede.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Boiling-hot-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Vibing-at-hot-springs.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Our-guides-prepared-us-food.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Very-ready-for-the-second-day-night-of-the-hike.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/The-view-was-totally-worth-it.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Beautiful-views-from-the-mountain.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Solar-Boat-reunite-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/The-survivors-that-made-it-to-the-top.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Shout-out-to-this-guy-as-well.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Shout-out-to-this-guy.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/On-the-climb-down-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/The-first-group-made-it.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/09/Quick-shower-at-the-bottom-of-the-mountain-rotated.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/2023/08/27/singapore/]]></loc>

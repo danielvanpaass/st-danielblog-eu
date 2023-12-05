@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 26, 2023 at 3:57 pm by All in One SEO v4.4.6 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 5, 2023 at 1:40 am by All in One SEO v4.5.1.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -9,15 +9,129 @@
 >
 	<url>
 		<loc><![CDATA[/blog-posts/]]></loc>
-		<lastmod><![CDATA[2023-07-15T14:46:24+00:00]]></lastmod>
+		<lastmod><![CDATA[2023-12-05T00:53:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/2023/12/05/athens-week-budapest/]]></loc>
+		<lastmod><![CDATA[2023-12-05T00:47:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/PXL_20231121_195340512.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Amazing-food-with-equally-opposite-of-service.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/My-cozy-small-cubicle-with-Ikea-bedsheets.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Diego-figured-out-the-key-to-cooking-look-helpless-until-the-Hungarians-help-you.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/The-metro-entrance.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Jumpstarting-into-how-to-bridge.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Climbing-the-mountain-as-a-study-break.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Yuri-being-proud-that-he-removed-the-most-important-bolt-of-the-bridge.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Group-photo-during-the-boat-tour.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Enjoying-lunch-at-during-the-boat-tour.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Seeing-bearings-under-a-bridge-for-the-first-time.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/At-the-anchorage-of-a-bridge-rotated.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/The-chain-bridge-at-day.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/The-chain-bridge-at-night.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/At-the-Buda-castle.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Tasting-the-mango-beer.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/At-a-ruins-bar.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Enjoying-the-Lukacs-thermal-bath.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Skating-in-whatever-direction-my-thesis-is-not-at.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/At-the-skating-park.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Dutchies-in-their-natural-habitat.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/2023/11/26/indonesia-jakarta/]]></loc>
 		<lastmod><![CDATA[2023-11-26T15:56:15+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/At-the-Jakarta-History-Museum.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Istiqlal-Mosque-the-main-prayer-hall.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/From-left-to-right-Lieke-Margot-Ivo-Scott-and-me-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Istiqlal-Mosque-outdoor-praying-area.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Visiting-Traveloka.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Visiting-HappyFresh-startup-company.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Bodhi-and-Quinten-as-a-professional-duo-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/At-a-street-food-tour.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Max-eating-delicious-and-hollow-poffertjes-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Shrimp-noodles-at-the-food-court.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/The-vegetatian-menu-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Waiting-for-our-Grab.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/On-the-Grab-bikes-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/Thanking-my-grab-driver-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/11/GrabNation.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/2023/09/23/indonesia-bandung/]]></loc>
